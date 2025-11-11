@@ -15,7 +15,7 @@ _Historian · Linguist · Horse Enthusiast_
 
 ---
 
-This website is currently a home for my **ManchuOCR / Translation App** — an ongoing project focused on digitizing and interpreting the Manchu script through OCR and linguistic analysis.
+This website is currently a home for my **ManchuOCR / Translation App** — an ongoing project focused on streamlining the translation pipeline for faster translation of Manchu documents.
 
 The rest of the site is under quiet development.  
 Future updates will include research notes and publications.
