@@ -7,16 +7,6 @@ body {
   margin: 0;
 }
 
-/* Make full-width sections escape Quarto's centered layout */
-.page-full {
-  width: 100vw;
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-}
-
 /* Full-width banner styling */
 .banner img {
   width: 100%;
