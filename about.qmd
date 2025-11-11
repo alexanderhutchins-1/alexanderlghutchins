@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+<div class="banner">
+  <img src="images/banner.jpg" alt="Site banner">
+</div>
+
+# About
+
+[Placeholder for biography, academic background, and research statement.]

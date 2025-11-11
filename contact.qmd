@@ -1,0 +1,12 @@
+---
+title: "Contact"
+---
+
+<div class="banner">
+  <img src="images/banner.jpg" alt="Site banner">
+</div>
+
+# Contact
+
+Email: alexanderhutchins@hotmail.com  
+[Placeholder for contact and collaboration notes.]

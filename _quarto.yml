@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Alexander L. G. Hutchins"
+  favicon: images/portrait.jpg
+  navbar:
+    background: "#ffffff"
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Project"
+        href: project.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Contact"
+        href: contact.qmd
+  page-footer:
+    border: true
+    center: "© 2025 Alexander L. G. Hutchins"
+
+format:
+  html:
+    theme: default
+    css: styles.css
+    toc: false

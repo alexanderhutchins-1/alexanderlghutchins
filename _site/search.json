@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "ManchuOCR / Translation App",
+    "section": "",
+    "text": "ManchuOCR / Translation App\nManchuOCR is an end-to-end pipeline for the Manchu script: segmentation, OCR, romanization, and morphology-aware translation.\n\nFeatures\n\nSegmentation of scanned Manchu pages\n\nRomanization and dictionary translation\n\nInteractive morphological analysis\n\nModular GUI (PySide6) with custom fonts\n\n\n\nPreview\n[Placeholder for screenshots or demo images]\n\n\nDownloads / Source\n[Placeholder for download or GitHub link]\n\n\nDocumentation\n[Placeholder for user guide or examples]"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\nEmail: alexanderhutchins@hotmail.com\n[Placeholder for contact and collaboration notes.]"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About\n[Placeholder for biography, academic background, and research statement.]"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Alexander L. G. Hutchins\nHistorian · Linguist · Developer\n\nThis website is currently a home for my ManchuOCR / Translation App — an ongoing project focused on digitizing and interpreting the Manchu script through OCR and linguistic analysis.\nThe rest of the site is under quiet development.\nFuture updates will include research notes and publications."
+  }
+]

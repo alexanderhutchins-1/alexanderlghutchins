@@ -1,0 +1,26 @@
+---
+title: "ManchuOCR / Translation App"
+---
+
+<div class="banner">
+  <img src="images/banner.jpg" alt="Site banner">
+</div>
+
+# ManchuOCR / Translation App
+
+**ManchuOCR** is an end-to-end pipeline for the Manchu script: segmentation, OCR, romanization, and morphology-aware translation.
+
+### Features
+- Segmentation of scanned Manchu pages  
+- Romanization and dictionary translation  
+- Interactive morphological analysis  
+- Modular GUI (PySide6) with custom fonts  
+
+### Preview
+[Placeholder for screenshots or demo images]
+
+### Downloads / Source
+[Placeholder for download or GitHub link]
+
+### Documentation
+[Placeholder for user guide or examples]

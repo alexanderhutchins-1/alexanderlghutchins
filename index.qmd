@@ -1,0 +1,21 @@
+---
+title: "Home"
+---
+
+<div class="banner">
+  <img src="images/banner.jpg" alt="Site banner">
+</div>
+
+<div class="portrait">
+  <img src="images/portrait.jpg" alt="Portrait of Alexander L. G. Hutchins">
+</div>
+
+# Alexander L. G. Hutchins
+_Historian · Linguist · Developer_
+
+---
+
+This website is currently a home for my **ManchuOCR / Translation App** — an ongoing project focused on digitizing and interpreting the Manchu script through OCR and linguistic analysis.
+
+The rest of the site is under quiet development.  
+Future updates will include research notes and publications.
