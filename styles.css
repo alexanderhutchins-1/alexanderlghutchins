@@ -7,13 +7,31 @@ body {
   margin: 0;
 }
 
-/* Banner */
-.banner img {
+/* Make banner truly full width without scrollbars or cutoff */
+.page-full {
+  position: relative;
   width: 100%;
-  height: 220px;
-  object-fit: cover;
-  border-bottom: 1px solid #e3e3e3;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  overflow: hidden;
 }
+
+body {
+  overflow-x: hidden;
+}
+
+/* Full-width responsive banner */
+.banner-img {
+  width: 100vw;
+  height: 300px;       /* adjust height as you like */
+  object-fit: cover;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
 
 /* Portrait */
 .portrait img {
